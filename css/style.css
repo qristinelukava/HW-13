@@ -1,0 +1,38 @@
+
+.header-background {
+    background-image: url(../images/IMAGE1.jpg);
+    width: 100%;
+    height: 327px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navigation {
+    padding-bottom: 250px;
+    
+}
+
+.background-image {
+    background-image: url(../images/image5.jpg);
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title {
+    color: white;
+}
+.image {
+    border-radius: 50%;
+    background-color: #5863F8;
+    max-width: 59px;
+    width: 100%;
+    height: 58px;
+    padding: 13px;
+    margin: 0 auto;
+}
+.cards {
+    padding:10px;
+}
+
+
+
